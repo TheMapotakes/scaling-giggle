@@ -1,7 +1,7 @@
-# DevProjects - {project_name}
+# DevProjects - {sdsdds}
 
 This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
-Find the project requirements here: [{project_name}](url)
+Find the project requirements here: [{doos}](url)
 
 ## Tech/framework used
 Built with ___
